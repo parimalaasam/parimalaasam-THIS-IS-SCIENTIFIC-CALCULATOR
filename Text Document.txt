@@ -1,0 +1,29 @@
+THIS IS ABOUT PROJECT:
+It is a Scientific calculator application using python. 
+It contains navigation, values calculate, scientific value calculate. 
+The features of scientific calculator, its includes all basic operators and trigonometric functions.
+Additionally, the user may easily learn how to execute numerical computations with the help of this project
+
+
+
+Features of Scientific Calculator
+• All basic operators like addition, multiplication, subtraction, and division.
+• Dedicated buttons for sin, cos, tan, and cot.
+• Functions for log
+• Functions for ratio and exponents.
+• Other buttons like Pi, mod, and x!
+
+
+Official Library Links
+• Math library: Official Documentation Link
+• Tkinter library: Official Documentation Link
+
+Finally! Here’s the end of our article on Scientific Calculator in Python using Tkinter.
+We really hope that this article turns out to be a great source of help to you. We tried
+our best to explain each and every concept involved in this tutorial. We at
+CopyAssignments firmly believe that developing projects is the only way of being a
+pioneer of Python. In this GUI Scientific Calculator in Python project we have added
+some basic to intermediate functions, now it is your turn to add advanced functions
+and upgrade the project to the next level. We will soon be back with one another
+tutorial, till then keep Learning, Executing, and Building. Thank you for visiting
+our website.
